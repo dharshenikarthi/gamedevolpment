@@ -57,7 +57,6 @@
 
 
 ## OUTPUT:
-<img width="1587" height="2245" alt="dharsheni Poster" src="https://github.com/user-attachments/assets/2199a120-7d61-472d-8d59-ff1d864a20b2" />
 
 
 
